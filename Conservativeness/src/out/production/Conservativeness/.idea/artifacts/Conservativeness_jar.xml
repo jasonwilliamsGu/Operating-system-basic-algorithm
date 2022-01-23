@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Conservativeness:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Conservativeness_jar</output-path>
+    <root id="archive" name="Conservativeness.jar">
+      <element id="module-output" name="Conservativeness" />
+    </root>
+  </artifact>
+</component>

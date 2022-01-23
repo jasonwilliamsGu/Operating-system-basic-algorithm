@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"<Unnamed>","l":"ClockThread"},{"p":"<Unnamed>","l":"MultiThread"},{"p":"<Unnamed>","l":"Read_Write"},{"p":"<Unnamed>","l":"Status"},{"l":"所有类","u":"allclasses-index.html"}];updateSearchResults();

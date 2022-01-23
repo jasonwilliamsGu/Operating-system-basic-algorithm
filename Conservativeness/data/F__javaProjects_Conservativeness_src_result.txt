@@ -1,0 +1,33 @@
+------------------------------------------------
+分析目录		: F:\javaProjects\Conservativeness\src
+
+Java源程序文件个数	:              8
+源程序中字符总个数	:          21007
+注释总个数	:            101
+   1)单行注释个数	:             80
+   2)多行注释个数	:             21
+注释总的字符数	:           4383
+
+关键字的使用情况如下:
+[new            	=   37]
+[import         	=   36]
+[if             	=   33]
+[public         	=   30]
+[int            	=   14]
+[private        	=   13]
+[static         	=   13]
+[void           	=   13]
+[for            	=   11]
+[return         	=   10]
+[class          	=    9]
+[while          	=    9]
+[catch          	=    8]
+[try            	=    8]
+[else           	=    6]
+[boolean        	=    3]
+[final          	=    3]
+[continue       	=    2]
+[break          	=    1]
+[implements     	=    1]
+[this           	=    1]
+------------------------------------------------

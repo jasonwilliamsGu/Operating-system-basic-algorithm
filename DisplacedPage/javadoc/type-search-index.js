@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"Algorithm","l":"algorithm"},{"p":"Algorithm","l":"FIFO"},{"p":"Algorithm","l":"LRU"},{"p":"Run","l":"Main"},{"p":"Algorithm","l":"OPTimal"},{"p":"DataStructure","l":"Page"},{"p":"DataStructure","l":"PageFrame"},{"p":"DataStructure","l":"Position"},{"p":"DataStructure","l":"SingalPage"},{"l":"所有类","u":"allclasses-index.html"}];updateSearchResults();

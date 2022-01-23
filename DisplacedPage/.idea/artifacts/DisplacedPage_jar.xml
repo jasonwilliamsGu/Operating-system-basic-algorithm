@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="DisplacedPage:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/DisplacedPage_jar</output-path>
+    <root id="archive" name="DisplacedPage.jar">
+      <element id="module-output" name="DisplacedPage" />
+    </root>
+  </artifact>
+</component>

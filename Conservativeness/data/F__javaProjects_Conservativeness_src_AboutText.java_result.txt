@@ -1,0 +1,27 @@
+------------------------------------------------
+分析文件		:F:\javaProjects\Conservativeness\src\AboutText.java
+
+源程序中字符总个数	:           6539
+注释总个数	:              7
+   1)单行注释个数	:              6
+   2)多行注释个数	:              1
+注释总的字符数	:            392
+关键字的使用情况如下:
+
+[if             	=   11]
+[import         	=    9]
+[new            	=    9]
+[int            	=    6]
+[for            	=    5]
+[catch          	=    4]
+[try            	=    4]
+[else           	=    3]
+[private        	=    3]
+[public         	=    3]
+[final          	=    2]
+[void           	=    2]
+[class          	=    1]
+[continue       	=    1]
+[return         	=    1]
+[while          	=    1]
+------------------------------------------------

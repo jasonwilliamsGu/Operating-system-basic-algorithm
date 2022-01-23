@@ -1,0 +1,40 @@
+------------------------------------------------
+分析目录		: F:\javaProjects
+
+Java源程序文件个数	:             38
+源程序中字符总个数	:          82897
+注释总个数	:            380
+   1)单行注释个数	:            300
+   2)多行注释个数	:             80
+注释总的字符数	:          15917
+
+关键字的使用情况如下:
+[public         	=  166]
+[import         	=  146]
+[new            	=  145]
+[if             	=  117]
+[int            	=  106]
+[this           	=   89]
+[return         	=   59]
+[void           	=   55]
+[for            	=   51]
+[private        	=   51]
+[static         	=   46]
+[class          	=   41]
+[while          	=   33]
+[package        	=   29]
+[else           	=   28]
+[break          	=   23]
+[boolean        	=   18]
+[catch          	=   17]
+[try            	=   17]
+[double         	=   10]
+[extends        	=    9]
+[final          	=    7]
+[implements     	=    6]
+[abstract       	=    4]
+[continue       	=    4]
+[super          	=    4]
+[throws         	=    2]
+[protected      	=    1]
+------------------------------------------------

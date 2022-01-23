@@ -1,0 +1,35 @@
+------------------------------------------------
+分析目录		: F:\javaProjects\DiskScheduling
+
+Java源程序文件个数	:             11
+源程序中字符总个数	:          23630
+注释总个数	:             78
+   1)单行注释个数	:             70
+   2)多行注释个数	:              8
+注释总的字符数	:           3448
+
+关键字的使用情况如下:
+[this           	=   72]
+[public         	=   56]
+[import         	=   50]
+[new            	=   43]
+[int            	=   30]
+[if             	=   27]
+[return         	=   27]
+[static         	=   17]
+[for            	=   15]
+[void           	=   15]
+[break          	=   12]
+[class          	=   11]
+[private        	=   11]
+[package        	=   10]
+[while          	=    8]
+[extends        	=    6]
+[else           	=    5]
+[super          	=    4]
+[abstract       	=    3]
+[boolean        	=    2]
+[throws         	=    2]
+[implements     	=    1]
+[protected      	=    1]
+------------------------------------------------

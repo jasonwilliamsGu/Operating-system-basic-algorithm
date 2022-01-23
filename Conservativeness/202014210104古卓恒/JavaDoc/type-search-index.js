@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"gu","l":"AboutText"},{"p":"gu","l":"AnalyseFile"},{"p":"gu","l":"AnalyseJava"},{"p":"gu","l":"AnalyseJavaTask"},{"p":"gu","l":"Interface"},{"p":"gu","l":"KeyWordStatus"},{"p":"gu","l":"Main"},{"p":"gu","l":"TaskPool"},{"l":"所有类","u":"allclasses-index.html"}];updateSearchResults();

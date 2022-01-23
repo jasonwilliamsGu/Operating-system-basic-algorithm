@@ -1,0 +1,36 @@
+------------------------------------------------
+分析目录		: F:\javaProjects\DisplacedPage
+
+Java源程序文件个数	:              9
+源程序中字符总个数	:          15552
+注释总个数	:             94
+   1)单行注释个数	:             66
+   2)多行注释个数	:             28
+注释总的字符数	:           3511
+
+关键字的使用情况如下:
+[int            	=   48]
+[public         	=   47]
+[if             	=   24]
+[new            	=   22]
+[import         	=   18]
+[this           	=   15]
+[for            	=   14]
+[void           	=   13]
+[return         	=   12]
+[else           	=   11]
+[boolean        	=   10]
+[class          	=   10]
+[double         	=   10]
+[private        	=   10]
+[break          	=    9]
+[package        	=    9]
+[while          	=    7]
+[extends        	=    3]
+[implements     	=    3]
+[static         	=    2]
+[abstract       	=    1]
+[catch          	=    1]
+[final          	=    1]
+[try            	=    1]
+------------------------------------------------
